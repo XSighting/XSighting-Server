@@ -1,5 +1,5 @@
 # XSighting
-[Aliens Outside](assets/alien-out-window.jpg)
+![Aliens Outside](assets/alien-out-window.jpg)
 
 There’s light. It’s blue. You were asleep and don’t think anything of it at first but as you drift back into consciousness you wonder, ‘Why is it blue?’ You shield your still-adjusting eyes from the light and glance at the clock. It’s only 2:00 am. Your mind is still waking and thoughts are coming slowly. The light isn’t coming from inside the room. You throw off the covers and creep towards your window. Your rising fear is temporarily outmatched by your curiosity as you part the blinds just enough to peek out. Nobody is going to believe you. You wouldn't believe you. If only you had a way to tell everyone…
 
